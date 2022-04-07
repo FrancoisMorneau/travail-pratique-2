@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap");
+
+:root {
+  --clr-red: #da2e3f;
+  --clr-font: #ebebeb;
+  --clr-black: #000000;
+  --clr-background: #1e2122;
+  --clr-red2: #ae2222;
+}
+
+body {
+  background-color: var(--clr-background);
+  color: var(--clr-font);
+  font-family: "Space Grotesk", "Sans Serif";
+  margin: 0;
+}
